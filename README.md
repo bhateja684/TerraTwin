@@ -4,7 +4,7 @@
 
 ### Overview
 
-TerraTwin is a research-driven initiative focused on developing predictive digital twins of rural ecosystems using remote sensing, machine learning (Generative Adversarial Networks(GANs)) and generative modelling. Rather than merely observing environmental conditions, TerraTwin aims to understand, simulate and forecast how ecosystems evolve under natural processes and human interventions.
+TerraTwin is a research-driven initiative focused on developing predictive digital twins of terrestrial ecosystems using remote sensing, machine learning (Generative Adversarial Networks(GANs)) and generative modelling. Rather than merely observing environmental conditions, TerraTwin aims to understand, simulate and forecast how ecosystems evolve under natural processes and human interventions.
 
 The central question motivating TerraTwin is:
 
